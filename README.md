@@ -12,3 +12,8 @@ CafeMarketApi
 #Puede ingresar a la implementación de la API con la  documentación de Swagger
 #Aqui http://localhost:8080/apikonecta-market/api/swagger-ui.html
 
+#La base de datos que se utilizó fue postresql
+#Adjunto se encuentras las tablas que deberán correrse en pgAdmin4
+#Primero deberá ejecutar en un script de sql el archivo .schema y luego en un nuevo script el archivo data
+
+
